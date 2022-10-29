@@ -21,6 +21,12 @@ http://38.75.136.76:1935/cncmedellin720/canalcncmedellin.stream_720p/playlist.m3
 #EXTINF:-1 ,VISION DORADA
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 ,CANAL 1
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+
+#EXTINF:-1 ,ATN TELEVISION 
+https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
+
 #EXTINF:-1 ,RETRO PLUS MUSIC
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 
@@ -93,6 +99,9 @@ http://8.242.187.236:5008/play/a08t/index.m3u8
 #EXTINF:-1 ,DISCOVERY KIDS HD 
 http://8.242.187.236:5008/play/a099/index.m3u8
 
+#EXTINF:-1 ,LATINO KIDS
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
+
 #EXTINF:-1 ,DISCOVERY SCIENCE 
 http://8.242.187.236:5008/play/a0bm/index.m3u8
 
@@ -101,6 +110,9 @@ http://8.242.187.236:5008/play/a08r/index.m3u8
 
 #EXTINF:-1 ,MUNDO DE LA MUSICA
 https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,VALLENATO INTERNACIONAL
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 
 #EXTINF:-1 ,NOTICIERO 90 MN
 https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8?PlaylistM3UCL
@@ -159,11 +171,17 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 #EXTINF:-1 ,MEMORIAS TV ROMANTICA
 https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 ,MEMORIAS TV 2
+https://stmv2.zcastbr.com/memoriastv/memoriastv/playlist.m3u8
+
 #EXTINF:-1 ,MTV 
 http://8.242.187.236:5008/play/a086/index.m3u8
 
 #EXTINF:-1 ,NATGEO HD 
 http://8.242.187.236:5008/play/a08n/index.m3u8
+
+#EXTINF:-1 ,HUILA TV
+https://plataformavideo.com:19360/8020/8020.m3u8
 
 #EXTINF:-1 ,PARAMOUNT HD 
 http://8.242.187.236:5008/play/a08o/index.m3u8
@@ -186,14 +204,23 @@ http://8.242.187.236:5008/play/a08v/index.m3u8
 #EXTINF:-1 ,STUDIO UNIVERSAL 
 http://8.242.187.236:5008/play/a08a/index.m3u8
 
+#EXTINF:-1 ,TDI COLOMBIA
+https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
+
 #EXTINF:-1 ,TLNOVELAS 
 http://8.242.187.236:5008/play/a0bb/index.m3u8
+
+#EXTINF:-1 ,NOVELISIMA
+https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
 
 #EXTINF:-1 ,VEO TELEVISION 
 https://movil.ejeserver.com/live/veotv.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,LA DESPECHADA TV
 https://servidordevideo.co:3077/hybrid/play.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,RT EN ESPAÑOL
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 ,TNT SERIES 
 http://8.242.187.236:5008/play/a08p/index.m3u8
@@ -221,3 +248,21 @@ https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,CANAL INSTITUCIONAL
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,CARACOL SD
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+
+#EXTINF:-1 ,DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 ,CANAL CATOLICO
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+
+#EXTINF:-1 ,NUEVO TIEMPO
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+
+#EXTINF:-1 ,ZOOM CANAL
+https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
+
+#EXTINF:-1 ,TELECAFE
+https://liveingesta118.cdnmedia.tv/telecafelive/smil:dvrlive.smil/playlist.m3u8
