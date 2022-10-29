@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 ,SEÑAL COLOMBIA
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 ,PLANCHA TV
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
 
@@ -8,6 +11,15 @@ http://8.242.187.236:5008/play/a0b1/index.m3u8
 
 #EXTINF:-1 ,RCN 
 http://8.242.187.236:5008/play/a0al/index.m3u8
+
+#EXTINF:-1 ,CALI TV
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,CNC MEDELLIN 
+http://38.75.136.76:1935/cncmedellin720/canalcncmedellin.stream_720p/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,VISION DORADA
+https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,RETRO PLUS MUSIC
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
@@ -18,6 +30,12 @@ http://8.242.187.236:5008/play/a08i/index.m3u8
 #EXTINF:-1 ,A&E
 http://8.242.187.236:5008/play/a08e/index.m3u8
 
+#EXTINF:-1 ,MICROVISION
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1864019893.m3u8
+
+#EXTINF:-1 ,CTV BARRANQUILLA
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 ,AMC
 http://8.242.187.236:5008/play/a093/index.m3u8
 
@@ -27,6 +45,9 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,AXN 
 http://8.242.187.236:5008/play/a09x/index.m3u8
 
+#EXTINF:-1 ,TELEPACIFICO
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 ,BABY TV 
 http://8.242.187.236:5008/play/a09q/index.m3u8
 
@@ -35,6 +56,15 @@ https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,CARTOON NETWORK 
 http://8.242.187.236:5008/play/a0bz/index.m3u8
+
+#EXTINF:-1 ,TELE FAMILIA 
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,BUENISIMA RADIO
+http://streamyes.alsolnet.com/buturama/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,TV PEÑOL
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,CINECANAL 
 http://8.242.187.236:5008/play/a08y/index.m3u8
@@ -68,6 +98,12 @@ http://8.242.187.236:5008/play/a0bm/index.m3u8
 
 #EXTINF:-1 ,DISCOVERY WORLD 
 http://8.242.187.236:5008/play/a08r/index.m3u8
+
+#EXTINF:-1 ,MUNDO DE LA MUSICA
+https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,NOTICIERO 90 MN
+https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,ENTERTAIRMENT 
 http://8.242.187.236:5008/play/a08d/index.m3u8
@@ -117,6 +153,9 @@ http://8.242.187.236:5008/play/a09r/index.m3u8
 #EXTINF:-1 ,LOVE NATURE 
 http://8.242.187.236:5008/play/a0as/index.m3u8
 
+#EXTINF:-1 ,WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+
 #EXTINF:-1 ,MEMORIAS TV ROMANTICA
 https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
 
@@ -150,6 +189,9 @@ http://8.242.187.236:5008/play/a08a/index.m3u8
 #EXTINF:-1 ,TLNOVELAS 
 http://8.242.187.236:5008/play/a0bb/index.m3u8
 
+#EXTINF:-1 ,VEO TELEVISION 
+https://movil.ejeserver.com/live/veotv.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 ,LA DESPECHADA TV
 https://servidordevideo.co:3077/hybrid/play.m3u8?PlaylistM3UCL
 
@@ -176,3 +218,6 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w19153785
 
 #EXTINF:-1 ,SOLO EXITOS
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,CANAL INSTITUCIONAL
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
