@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 ,CARACOL HD 
+http://8.242.187.236:5008/play/a0b1/index.m3u8
+
+#EXTINF:-1 ,RCN 
+http://8.242.187.236:5008/play/a0al/index.m3u8
+
 #EXTINF:-1 ,TNT
 http://8.242.187.236:5008/play/a08i/index.m3u8
 
@@ -38,9 +44,6 @@ http://8.242.187.236:5008/play/a0by/index.m3u8
 
 #EXTINF:-1 ,CNN 
 http://8.242.187.236:5008/play/a0bv/index.m3u8
-
-#EXTINF:-1 ,CARACOL HD 
-http://8.242.187.236:5008/play/a0b1/index.m3u8
 
 #EXTINF:-1 ,COMEDY CENTRAL 
 http://8.242.187.236:5008/play/a08l/index.m3u8
@@ -144,9 +147,6 @@ http://8.242.187.236:5008/play/a08o/index.m3u8
 #EXTINF:-1 ,PASIONES 
 http://8.242.187.236:5008/play/a08s/index.m3u8
 
-#EXTINF:-1 ,RCN 
-http://8.242.187.236:5008/play/a0al/index.m3u8
-
 #EXTINF:-1 ,SONY HD 
 http://8.242.187.236:5008/play/a08x/index.m3u8
 
@@ -173,9 +173,6 @@ http://8.242.187.236:5008/play/a0bb/index.m3u8
 
 #EXTINF:-1 ,TMC 
 http://8.242.187.236:5008/play/a0c5/index.m3u8
-
-#EXTINF:-1 ,TNT HD 
-http://8.242.187.236:5008/play/a08i/index.m3u8
 
 #EXTINF:-1 ,TNT SERIES 
 http://8.242.187.236:5008/play/a08p/index.m3u8
