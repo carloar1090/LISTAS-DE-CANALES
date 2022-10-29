@@ -267,3 +267,6 @@ https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 ,ZOOM CANAL
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 
+#EXTINF:-1 ,PORTALFOXMIX
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
+
