@@ -21,9 +21,6 @@ http://8.242.187.236:5008/play/a08e/index.m3u8
 #EXTINF:-1 ,AMC
 http://8.242.187.236:5008/play/a093/index.m3u8
 
-#EXTINF:-1 ,ANIMAL PLANET SD 
-http://8.242.187.236:5008/play/a0c9/index.m3u8
-
 #EXTINF:-1 ,REDWIN TV MUSIC
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 
@@ -33,26 +30,14 @@ http://8.242.187.236:5008/play/a09x/index.m3u8
 #EXTINF:-1 ,BABY TV 
 http://8.242.187.236:5008/play/a09q/index.m3u8
 
-#EXTINF:-1 ,BABY
-http://8.242.187.236:5008/play/a0c4/index.m3u8
-
 #EXTINF:-1 ,URBAN TV
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 ,CANAL DE LAS ESTRELLAS 
-http://8.242.187.236:5008/play/a0bj/index.m3u8
 
 #EXTINF:-1 ,CARTOON NETWORK 
 http://8.242.187.236:5008/play/a0bz/index.m3u8
 
 #EXTINF:-1 ,CINECANAL 
 http://8.242.187.236:5008/play/a08y/index.m3u8
-
-#EXTINF:-1 ,CITY TV 
-http://8.242.187.236:5008/play/a0by/index.m3u8
-
-#EXTINF:-1 ,CNN 
-http://8.242.187.236:5008/play/a0bv/index.m3u8
 
 #EXTINF:-1 ,COMEDY CENTRAL 
 http://8.242.187.236:5008/play/a08l/index.m3u8
@@ -65,15 +50,6 @@ http://8.242.187.236:5008/play/a08g/index.m3u8
 
 #EXTINF:-1 ,DISC THEATHER 
 http://8.242.187.236:5008/play/a08j/index.m3u8
-
-#EXTINF:-1 ,DISCOVERY TURBO 
-http://8.242.187.236:5008/play/a0bt/index.m3u8
-
-#EXTINF:-1 ,DISNEY CHANNEL 
-http://8.242.187.236:5008/play/a0c6/index.m3u8
-
-#EXTINF:-1 ,DISNEY 
-http://8.242.187.236:5008/play/a0c3/index.m3u8
 
 #EXTINF:-1 ,TOP LATINO
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/playlist.m3u8?PlaylistM3UCL
@@ -147,17 +123,8 @@ https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,MTV 
 http://8.242.187.236:5008/play/a086/index.m3u8
 
-#EXTINF:-1 ,NATGEO SD 
-http://8.242.187.236:5008/play/a0cb/index.m3u8
-
-#EXTINF:-1 ,NICK JR 
-http://8.242.187.236:5008/play/a0c2/index.m3u8
-
 #EXTINF:-1 ,NATGEO HD 
 http://8.242.187.236:5008/play/a08n/index.m3u8
-
-#EXTINF:-1 ,NICKELODEON 
-http://8.242.187.236:5008/play/a0c1/index.m3u8
 
 #EXTINF:-1 ,PARAMOUNT HD 
 http://8.242.187.236:5008/play/a08o/index.m3u8
@@ -174,29 +141,17 @@ http://8.242.187.236:5008/play/a08x/index.m3u8
 #EXTINF:-1 ,SPACE 
 http://8.242.187.236:5008/play/a09y/index.m3u8
 
-#EXTINF:-1 ,SPACE SD 
-http://8.242.187.236:5008/play/a0ca/index.m3u8
-
 #EXTINF:-1 ,STAR CHANEL 
 http://8.242.187.236:5008/play/a08v/index.m3u8
 
 #EXTINF:-1 ,STUDIO UNIVERSAL 
 http://8.242.187.236:5008/play/a08a/index.m3u8
 
-#EXTINF:-1 ,TELEMUNDO 
-http://8.242.187.236:5008/play/a0bx/index.m3u8
-
-#EXTINF:-1 ,TLC 
-http://8.242.187.236:5008/play/a0bw/index.m3u8
-
 #EXTINF:-1 ,TLNOVELAS 
 http://8.242.187.236:5008/play/a0bb/index.m3u8
 
 #EXTINF:-1 ,LA DESPECHADA TV
 https://servidordevideo.co:3077/hybrid/play.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 ,TMC 
-http://8.242.187.236:5008/play/a0c5/index.m3u8
 
 #EXTINF:-1 ,TNT SERIES 
 http://8.242.187.236:5008/play/a08p/index.m3u8
@@ -215,9 +170,6 @@ http://8.242.187.236:5008/play/a08w/index.m3u8
 
 #EXTINF:-1 ,WIN SPORTS+ 
 http://8.242.187.236:5008/play/a0aq/index.m3u8
-
-#EXTINF:-1 ,TBS 
-http://8.242.187.236:5008/play/a0bn/index.m3u8
 
 #EXTINF:-1 ,MALETA MIX 
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
