@@ -1,10 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 ,PLANCHA TV
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 ,CARACOL HD 
 http://8.242.187.236:5008/play/a0b1/index.m3u8
 
 #EXTINF:-1 ,RCN 
 http://8.242.187.236:5008/play/a0al/index.m3u8
+
+#EXTINF:-1 ,RETRO PLUS MUSIC
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,TNT
 http://8.242.187.236:5008/play/a08i/index.m3u8
@@ -18,6 +24,9 @@ http://8.242.187.236:5008/play/a093/index.m3u8
 #EXTINF:-1 ,ANIMAL PLANET SD 
 http://8.242.187.236:5008/play/a0c9/index.m3u8
 
+#EXTINF:-1 ,REDWIN TV MUSIC
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 ,AXN 
 http://8.242.187.236:5008/play/a09x/index.m3u8
 
@@ -29,6 +38,9 @@ http://8.242.187.236:5008/play/a09q/index.m3u8
 
 #EXTINF:-1 ,BABY
 http://8.242.187.236:5008/play/a0c4/index.m3u8
+
+#EXTINF:-1 ,URBAN TV
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,CANAL DE LAS ESTRELLAS 
 http://8.242.187.236:5008/play/a0bj/index.m3u8
@@ -48,6 +60,9 @@ http://8.242.187.236:5008/play/a0bv/index.m3u8
 #EXTINF:-1 ,COMEDY CENTRAL 
 http://8.242.187.236:5008/play/a08l/index.m3u8
 
+#EXTINF:-1 ,LATINOS RADIO
+https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 ,DHE HD 
 http://8.242.187.236:5008/play/a08g/index.m3u8
 
@@ -65,6 +80,9 @@ http://8.242.187.236:5008/play/a0c6/index.m3u8
 
 #EXTINF:-1 ,DISNEY 
 http://8.242.187.236:5008/play/a0c3/index.m3u8
+
+#EXTINF:-1 ,TOP LATINO
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,DISCOVERY CHANNEL 
 http://8.242.187.236:5008/play/a08q/index.m3u8
@@ -96,6 +114,9 @@ http://8.242.187.236:5008/play/a0br/index.m3u8
 #EXTINF:-1 ,ESPN CO 
 http://8.242.187.236:5008/play/a0bq/index.m3u8
 
+#EXTINF:-1 ,CARLOAR OXIGENO
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 ,FOX SPORT 
 http://8.242.187.236:5008/play/a0bu/index.m3u8
 
@@ -126,6 +147,9 @@ http://8.242.187.236:5008/play/a09r/index.m3u8
 #EXTINF:-1 ,LOVE NATURE 
 http://8.242.187.236:5008/play/a0as/index.m3u8
 
+#EXTINF:-1 ,MEMORIAS TV ROMANTICA
+https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 ,MTV 
 http://8.242.187.236:5008/play/a086/index.m3u8
 
@@ -146,6 +170,9 @@ http://8.242.187.236:5008/play/a08o/index.m3u8
 
 #EXTINF:-1 ,PASIONES 
 http://8.242.187.236:5008/play/a08s/index.m3u8
+
+#EXTINF:-1 ,CANTINA TV
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,SONY HD 
 http://8.242.187.236:5008/play/a08x/index.m3u8
@@ -170,6 +197,9 @@ http://8.242.187.236:5008/play/a0bw/index.m3u8
 
 #EXTINF:-1 ,TLNOVELAS 
 http://8.242.187.236:5008/play/a0bb/index.m3u8
+
+#EXTINF:-1 ,LA DESPECHADA TV
+https://servidordevideo.co:3077/hybrid/play.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,TMC 
 http://8.242.187.236:5008/play/a0c5/index.m3u8
@@ -197,3 +227,6 @@ http://8.242.187.236:5008/play/a0bn/index.m3u8
 
 #EXTINF:-1 ,MALETA MIX 
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 ,SOLO EXITOS
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
