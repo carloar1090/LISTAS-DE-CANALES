@@ -3,8 +3,14 @@
 #EXTINF:-1 ,SEÑAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1,Claro Cinema
+http://45.5.119.202:8000/play/a01d/index.m3u8
+
 #EXTINF:-1 ,MEMORIAS TV 2
 https://stmv2.zcastbr.com/memoriastv/memoriastv/playlist.m3u8
+
+#EXTINF:-1,Canal Azteca - GUA
+http://45.5.119.202:8000/play/a00w/index.m3u8
 
 #EXTINF:-1 ,CARACOL SD
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
@@ -40,7 +46,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 http://8.242.187.236:5008/play/a08i/index.m3u8
 
 #EXTINF:-1 ,A&E
-http://8.242.187.236:5008/play/a08e/index.m3u8
+http://45.5.119.202:8000/play/a014/index.m3u8
 
 #EXTINF:-1 ,MICROVISION
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1864019893.m3u8
@@ -48,14 +54,17 @@ http://190.103.183.24:1935/live/MicroHD/chunklist_w1864019893.m3u8
 #EXTINF:-1 ,CTV BARRANQUILLA
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1,Animal Planet
+http://45.5.119.202:8000/play/a017/index.m3u8
+
 #EXTINF:-1 ,AMC
-http://8.242.187.236:5008/play/a093/index.m3u8
+http://45.5.119.202:8000/play/a02w/index.m3u8
 
 #EXTINF:-1 ,REDWIN TV MUSIC
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,AXN 
-http://8.242.187.236:5008/play/a09x/index.m3u8
+http://45.5.119.202:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 ,TELEPACIFICO
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
@@ -67,7 +76,13 @@ http://8.242.187.236:5008/play/a09q/index.m3u8
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,CARTOON NET
-http://8.242.187.236:5008/play/a0bz/index.m3u8
+http://45.5.119.202:8000/play/a02d/index.m3u8
+
+#EXTINF:-1,Baby First
+http://45.5.119.202:8000/play/a009/index.m3u8
+
+#EXTINF:-1,Cartoonito
+http://45.5.119.202:8000/play/a02f/index.m3u8
 
 #EXTINF:-1 ,TELE FAMILIA 
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
@@ -79,7 +94,7 @@ http://streamyes.alsolnet.com/buturama/live/playlist.m3u8?PlaylistM3UCL
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,CINECANAL 
-http://8.242.187.236:5008/play/a08y/index.m3u8
+http://45.5.119.202:8000/play/a01h/index.m3u8
 
 #EXTINF:-1 ,COMEDY CENTRAL 
 http://8.242.187.236:5008/play/a08l/index.m3u8
@@ -269,4 +284,7 @@ https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 
 #EXTINF:-1 ,PORTALFOXMIX
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
+
+#EXTINF:-1,CNNE
+http://45.5.119.202:8000/play/a02h/index.m3u8
 
