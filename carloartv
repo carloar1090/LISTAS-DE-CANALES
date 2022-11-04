@@ -16,13 +16,25 @@ http://45.5.119.202:8000/play/a00w/index.m3u8
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 
 #EXTINF:-1 ,CARACOL HD 
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/177600.ts
 
+#EXTINF:0,CO | Caracol Internacional
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/177601.ts
 
-#EXTINF:-1 ,RCN 
+#EXTINF:-1 ,RCN Nuestra Tele
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/177608.ts
 
+#EXTINF:0,CO | RCN Novelas
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/177607.ts
+
+#EXTINF:0,CO | RCN Internacional
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/177606.ts
+
+#EXTINF:0,CO | NTN24
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/177603.ts
 
 #EXTINF:-1 ,TELECAFE
-https://liveingesta118.cdnmedia.tv/telecafelive/smil:dvrlive.smil/playlist.m3u8
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/177611.ts
 
 #EXTINF:-1 ,CALI TV
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
@@ -36,6 +48,9 @@ https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,CANAL 1
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 
+#EXTINF:0,CO | City TV
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/177602.ts
+
 #EXTINF:-1 ,ATN TELEVISION 
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 
@@ -43,7 +58,10 @@ https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,TNT
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/173892.ts
 
+#EXTINF:0,CI | TCM
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/173890.ts
 
 #EXTINF:-1 ,A&E
 http://45.5.119.202:8000/play/a014/index.m3u8
@@ -70,7 +88,7 @@ http://45.5.119.202:8000/play/a02u/index.m3u8
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,BABY TV 
-
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/191831.ts
 
 #EXTINF:-1 ,URBAN TV
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
@@ -97,37 +115,46 @@ https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
 http://45.5.119.202:8000/play/a01h/index.m3u8
 
 #EXTINF:-1 ,COMEDY CENTRAL 
-
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/174692.ts
 
 #EXTINF:-1 ,LATINOS RADIO
 https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 ,DHE HD 
-
+#EXTINF:0,ESP | ANIME CLASICO
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/171641.ts
 
 #EXTINF:-1 ,DISC THEATHER 
-
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/174668.ts
 
 #EXTINF:-1 ,TOP LATINO
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,DISCOVERY CHANNEL 
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/174665.ts
 
-
-#EXTINF:-1 ,DISCOVERYID HD 
-
+#EXTINF:-1 ,DISCOVERYI TURBO 
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/174669.ts
 
 #EXTINF:-1 ,DISCOVERY KIDS HD 
-
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/195817.ts
 
 #EXTINF:-1 ,LATINO KIDS
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 
-#EXTINF:-1 ,DISCOVERY SCIENCE 
+#EXTINF:0,ESP | Nick JR
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/218902.ts
 
+#EXTINF:-1 ,DISCOVERY SCIENCE 
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/232726.ts
+
+#EXTINF:0,CUL | National Geographic
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/174683.ts
 
 #EXTINF:-1 ,DISCOVERY WORLD 
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/174670.ts
 
+#EXTINF:0,LAT | HISTORIAS DE ULTRATUMBAS
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/171538.ts
 
 #EXTINF:-1 ,MUNDO DE LA MUSICA
 https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
@@ -139,52 +166,61 @@ https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,ENTERTAIRMENT 
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/174694.ts
 
+#EXTINF:-1 ,ESPN 
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/175687.ts
 
-#EXTINF:-1 ,ESPN 2 
+#EXTINF:-1 ,ESPN 2
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/175688.ts
 
-
-#EXTINF:-1 ,ESPN 3 
-
-
-#EXTINF:-1 ,ESPN 4 
-
+#EXTINF:-1 ,ESPN  3
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/175689.ts
 
 #EXTINF:-1 ,ESPN CO 
-
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/175691.ts
 
 #EXTINF:-1 ,CARLOAR OXIGENO
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,FOX SPORT 
-
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/175702.ts
 
 #EXTINF:-1 ,FOX SPORTS 2 
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/175703.ts
 
+#EXTINF:0,DEP | Directv Sports (COL)
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/175719.ts
 
 #EXTINF:-1 ,HBO FAMILY 
-
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/174173.ts
 
 #EXTINF:-1 ,HBO HD 
-
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/174169.ts
 
 #EXTINF:-1 ,XTREME 
-
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/174176.ts
 
 #EXTINF:-1 ,HISTORY 2 
-
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/174678.ts
 
 #EXTINF:-1 ,HISTORY HD 
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/174677.ts
 
+#EXTINF:0,CI | Cinecanal 
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/173916.ts
 
-#EXTINF:-1 ,HOME & AMP 
+#EXTINF:0,CI | FX 
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/173906.ts
 
+#EXTINF:0,LAT | CINE NAVIDEÑO
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/171780.ts
 
-#EXTINF:-1 ,HOME GARDEN 
-
+#EXTINF:0,ENT | Food Network
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/174696.ts
 
 #EXTINF:-1 ,LOVE NATURE 
-
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/174680.ts
 
 #EXTINF:-1 ,WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
@@ -196,45 +232,61 @@ https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,MTV 
-
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/174630.ts
 
 #EXTINF:-1 ,NATGEO HD 
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/218889.ts
 
+#EXTINF:0,ESP | National Geografic
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/218888.ts
 
 #EXTINF:-1 ,HUILA TV
 https://plataformavideo.com:19360/8020/8020.m3u8
 
 #EXTINF:-1 ,PARAMOUNT HD 
-
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/173899.ts
 
 #EXTINF:-1 ,PASIONES 
-
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/174707.ts
 
 #EXTINF:-1 ,CANTINA TV
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,SONY HD 
-
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/174701.ts
 
 #EXTINF:-1 ,SPACE 
-http://8.242.187.236:5008/play/a09y/index.m3u8
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/173896.ts
 
 #EXTINF:-1 ,STAR CHANEL 
-
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/174178.ts
 
 #EXTINF:-1 ,STUDIO UNIVERSAL 
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/173893.ts
 
 #EXTINF:-1 ,TDI COLOMBIA
 https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 
-#EXTINF:-1 ,TLNOVELAS 
+#EXTINF:0,MX | Las Estrellas
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/185081.ts
 
+#EXTINF:-1 ,TLNOVELAS 
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/171651.ts
+
+#EXTINF:0,LAT | AMANTES DEL ROMANCE
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/171736.ts
 
 #EXTINF:-1 ,NOVELISIMA
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
 
 #EXTINF:-1 ,VEO TELEVISION 
 https://movil.ejeserver.com/live/veotv.m3u8?PlaylistM3UCL
+
+#EXTINF:0,PR | Telemundo
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/211033.ts
+
+#EXTINF:0,CH | 13 Teleseries
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/191207.ts
 
 #EXTINF:-1 ,LA DESPECHADA TV
 https://servidordevideo.co:3077/hybrid/play.m3u8?PlaylistM3UCL
@@ -243,22 +295,22 @@ https://servidordevideo.co:3077/hybrid/play.m3u8?PlaylistM3UCL
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 ,TNT SERIES 
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/174702.ts
 
+#EXTINF:-1 ,UNIVERSAL COMEDY 
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/174195.ts
 
-#EXTINF:-1 ,UNIVERSAL COMEDY ´
-
-
-#EXTINF:-1 ,UNIVERSAL 
-
+#EXTINF:-1 ,UNIVERSAL CINEMA 
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/174196.ts
 
 #EXTINF:-1 ,WARNER 
-
-
-#EXTINF:-1 ,WARNER HD 
-
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/174706.ts
 
 #EXTINF:-1 ,WIN SPORTS+ 
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/175968.ts
 
+#EXTINF:0,CO | Win Sports Plus (COL)
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/175969.ts
 
 #EXTINF:-1 ,MALETA MIX 
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
@@ -278,6 +330,9 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 ,NUEVO TIEMPO
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 
+#EXTINF:0,CH | Televida HD
+http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/191359.ts
+
 #EXTINF:-1 ,ZOOM CANAL
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 
@@ -292,9 +347,3 @@ http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/233455.ts
 
 #EXTINF:0,M+ | M+ Deportes 2
 http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/233456.ts
-
-#EXTINF:0,M+ | M+ Deportes 3
-http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/233457.ts
-
-#EXTINF:0,M+ | M+ Deportes 4
-http://198.245.53.172:8970/live/VJFJKJXNT5BE/KASQ5EQZYQUH/233458.ts
