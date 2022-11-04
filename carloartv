@@ -16,25 +16,16 @@ http://45.5.119.202:8000/play/a00w/index.m3u8
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 
 #EXTINF:-1 ,CARACOL HD 
-
-
-#EXTINF:0,CO | Caracol Internacional
-
+http://200.41.79.165:8000/play/a005/index.m3u8
 
 #EXTINF:-1 ,RCN Nuestra Tele
-
+http://200.41.79.165:8000/play/a006/index.m3u8
 
 #EXTINF:0,CO | RCN Novelas
-
-
-#EXTINF:0,CO | RCN Internacional
-
-
-#EXTINF:0,CO | NTN24
-
+http://200.41.79.165:8000/play/a0is/index.m3u8
 
 #EXTINF:-1 ,TELECAFE
-https://liveingesta118.cdnmedia.tv/telecafelive/smil:dvrlive.smil/playlist.m3u8
+http://200.41.79.165:8000/play/a04y/index.m3u8
 
 #EXTINF:-1 ,CALI TV
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
@@ -49,7 +40,7 @@ https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 
 #EXTINF:0,CO | City TV
-
+http://200.41.79.165:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 ,ATN TELEVISION 
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
@@ -58,10 +49,7 @@ https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,TNT
-
-
-#EXTINF:0,CI | TCM
-
+http://179.1.64.210:8090/play/a007/index.m3u8
 
 #EXTINF:-1 ,A&E
 http://45.5.119.202:8000/play/a014/index.m3u8
@@ -87,8 +75,8 @@ http://45.5.119.202:8000/play/a02u/index.m3u8
 #EXTINF:-1 ,TELEPACIFICO
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 ,BABY TV 
-
+#EXTINF:-1,La Red ca
+http://200.41.79.165:8000/play/a053/index.m3u8
 
 #EXTINF:-1 ,URBAN TV
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
@@ -114,47 +102,38 @@ https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,CINECANAL 
 http://45.5.119.202:8000/play/a01h/index.m3u8
 
-#EXTINF:-1 ,COMEDY CENTRAL 
-
-
 #EXTINF:-1 ,LATINOS RADIO
 https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0,ESP | ANIME CLASICO
-
-
-#EXTINF:-1 ,DISC THEATHER 
-
+#EXTINF:-1 ,DISCOVERY TURBO 
+http://200.41.79.165:8000/play/a04t/index.m3u8
 
 #EXTINF:-1 ,TOP LATINO
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,DISCOVERY CHANNEL 
+http://200.41.79.165:8000/play/a05n/index.m3u8
 
-
-#EXTINF:-1 ,DISCOVERYI TURBO 
-
+#EXTINF:-1 ,DISCOVERYI ID 
+http://179.1.64.210:8090/play/a00w/index.m3u8
 
 #EXTINF:-1 ,DISCOVERY KIDS HD 
+http://179.1.64.210:8090/play/a009/index.m3u8
 
+#EXTINF:-1,Disney HD
+http://179.1.64.210:8090/play/a006/index.m3u8
 
 #EXTINF:-1 ,LATINO KIDS
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 
-#EXTINF:0,ESP | Nick JR
+#EXTINF:0,ESP |Disney Jr
+http://200.41.79.165:8000/play/a05i/index.m3u8
 
-
-#EXTINF:-1 ,DISCOVERY SCIENCE 
-
-
-#EXTINF:0,CUL | National Geographic
-
+#EXTINF:-1,TNT SPORTS 2
+http://200.41.79.165:8000/play/a059/index.m3u8
 
 #EXTINF:-1 ,DISCOVERY WORLD 
-
-
-#EXTINF:0,LAT | HISTORIAS DE ULTRATUMBAS
-
+http://179.1.64.210:8090/play/a00d/index.m3u8
 
 #EXTINF:-1 ,MUNDO DE LA MUSICA
 https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
@@ -166,61 +145,46 @@ https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,ENTERTAIRMENT 
-
-
-#EXTINF:-1 ,ESPN 
-
+http://200.41.79.165:8000/play/a05q/index.m3u8
 
 #EXTINF:-1 ,ESPN 2
+http://179.1.64.210:8090/play/a02n/index.m3u8
 
+#EXTINF:-1 ,ESPN 3
+http://179.1.64.210:8090/play/a00u/index.m3u8
 
-#EXTINF:-1 ,ESPN  3
+#EXTINF:-1 ,ESPN  EXTRA
+http://179.1.64.210:8090/play/a011/index.m3u8
 
-
-#EXTINF:-1 ,ESPN CO 
-
+#EXTINF:-1 ,ESPN HD
+http://179.1.64.210:8090/play/a019/index.m3u8
 
 #EXTINF:-1 ,CARLOAR OXIGENO
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 ,FOX SPORT 
-
+#EXTINF:-1 ,FOX SPORT 3
+http://200.41.79.165:8000/play/a066/index.m3u8
 
 #EXTINF:-1 ,FOX SPORTS 2 
-
-
-#EXTINF:0,DEP | Directv Sports (COL)
-
+http://200.41.79.165:8000/play/a065/index.m3u8
 
 #EXTINF:-1 ,HBO FAMILY 
-
+http://200.41.79.165:8000/play/a05h/index.m3u8
 
 #EXTINF:-1 ,HBO HD 
-
+http://200.41.79.165:8000/play/a09a/index.m3u8
 
 #EXTINF:-1 ,XTREME 
-
-
-#EXTINF:-1 ,HISTORY 2 
-
+http://200.41.79.165:8000/play/a05g/index.m3u8
 
 #EXTINF:-1 ,HISTORY HD 
-
+http://179.1.64.210:8090/play/a001/index.m3u8
 
 #EXTINF:0,CI | Cinecanal 
-
+http://200.41.79.165:8000/play/a03z/index.m3u8
 
 #EXTINF:0,CI | FX 
-
-
-#EXTINF:0,LAT | CINE NAVIDEÑO
-
-
-#EXTINF:0,ENT | Food Network
-
-
-#EXTINF:-1 ,LOVE NATURE 
-
+http://200.41.79.165:8000/play/a04k/index.m3u8
 
 #EXTINF:-1 ,WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
@@ -232,50 +196,37 @@ https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,MTV 
-
+http://200.41.79.165:8000/play/a042/index.m3u8
 
 #EXTINF:-1 ,NATGEO HD 
-
-
-#EXTINF:0,ESP | National Geografic
-
+http://200.41.79.165:8000/play/a03x/index.m3u8
 
 #EXTINF:-1 ,HUILA TV
 https://plataformavideo.com:19360/8020/8020.m3u8
-
-#EXTINF:-1 ,PARAMOUNT HD 
-
-
-#EXTINF:-1 ,PASIONES 
-
 
 #EXTINF:-1 ,CANTINA TV
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,SONY HD 
-
+http://179.1.64.210:8090/play/a003/index.m3u8
 
 #EXTINF:-1 ,SPACE 
-
+http://179.1.64.210:8090/play/a00p/index.m3u8
 
 #EXTINF:-1 ,STAR CHANEL 
-
+http://200.41.79.165:8000/play/a08r/index.m3u8
 
 #EXTINF:-1 ,STUDIO UNIVERSAL 
-
-
+http://179.1.64.210:8090/play/a013/index.m3u8
 
 #EXTINF:-1 ,TDI COLOMBIA
 https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 
 #EXTINF:0,MX | Las Estrellas
-
+http://200.41.79.165:8000/play/a064/index.m3u8
 
 #EXTINF:-1 ,TLNOVELAS 
-
-
-#EXTINF:0,LAT | AMANTES DEL ROMANCE
-
+http://200.41.79.165:8000/play/a0ju/index.m3u8
 
 #EXTINF:-1 ,NOVELISIMA
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
@@ -283,11 +234,8 @@ https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
 #EXTINF:-1 ,VEO TELEVISION 
 https://movil.ejeserver.com/live/veotv.m3u8?PlaylistM3UCL
 
-#EXTINF:0,PR | Telemundo
-
-
-#EXTINF:0,CH | 13 Teleseries
-
+#EXTINF:-1,Telefuturo
+http://200.41.79.165:8000/play/a0hy/index.m3u8
 
 #EXTINF:-1 ,LA DESPECHADA TV
 https://servidordevideo.co:3077/hybrid/play.m3u8?PlaylistM3UCL
@@ -296,22 +244,19 @@ https://servidordevideo.co:3077/hybrid/play.m3u8?PlaylistM3UCL
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 ,TNT SERIES 
+http://179.1.64.210:8090/play/a00z/index.m3u8
 
-
-#EXTINF:-1 ,UNIVERSAL COMEDY 
-
-
-#EXTINF:-1 ,UNIVERSAL CINEMA 
-
+#EXTINF:-1 ,UNIVERSAL 
+http://200.41.79.165:8000/play/a040/index.m3u8
 
 #EXTINF:-1 ,WARNER 
-
+http://179.1.64.210:8090/play/a004/index.m3u8
 
 #EXTINF:-1 ,WIN SPORTS+ 
-
+http://179.1.64.210:8090/play/a00r/index.m3u8
 
 #EXTINF:0,CO | Win Sports Plus (COL)
-
+http://200.41.79.165:8000/play/a04m/index.m3u8
 
 #EXTINF:-1 ,MALETA MIX 
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
@@ -330,9 +275,6 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 #EXTINF:-1 ,NUEVO TIEMPO
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-
-#EXTINF:0,CH | Televida HD
-
 
 #EXTINF:-1 ,ZOOM CANAL
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
