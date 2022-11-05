@@ -21,7 +21,7 @@ http://200.41.79.165:8000/play/a005/index.m3u8
 #EXTINF:-1 ,RCN Nuestra Tele
 http://200.41.79.165:8000/play/a006/index.m3u8
 
-#EXTINF:0,CO | RCN Novelas
+#EXTINF:-1 ,RCN Novelas
 http://200.41.79.165:8000/play/a0is/index.m3u8
 
 #EXTINF:-1 ,TELECAFE
@@ -39,7 +39,7 @@ https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,CANAL 1
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 
-#EXTINF:0,CO | City TV
+#EXTINF:-1 ,City TV
 http://200.41.79.165:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 ,ATN TELEVISION 
@@ -126,7 +126,7 @@ http://179.1.64.210:8090/play/a006/index.m3u8
 #EXTINF:-1 ,LATINO KIDS
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 
-#EXTINF:0,ESP |Disney Jr
+#EXTINF:-1 ,Disney Jr
 http://200.41.79.165:8000/play/a05i/index.m3u8
 
 #EXTINF:-1,TNT SPORTS 2
@@ -180,10 +180,10 @@ http://200.41.79.165:8000/play/a05g/index.m3u8
 #EXTINF:-1 ,HISTORY HD 
 http://179.1.64.210:8090/play/a001/index.m3u8
 
-#EXTINF:0,CI | Cinecanal 
+#EXTINF:-1 ,Cinecanal 
 http://200.41.79.165:8000/play/a03z/index.m3u8
 
-#EXTINF:0,CI | FX 
+#EXTINF:-1 ,FX 
 http://200.41.79.165:8000/play/a04k/index.m3u8
 
 #EXTINF:-1 ,WOW TV
@@ -255,7 +255,7 @@ http://179.1.64.210:8090/play/a004/index.m3u8
 #EXTINF:-1 ,WIN SPORTS+ 
 http://179.1.64.210:8090/play/a00r/index.m3u8
 
-#EXTINF:0,CO | Win Sports Plus (COL)
+#EXTINF:-1 ,Win Sports Plus (COL)
 http://200.41.79.165:8000/play/a04m/index.m3u8
 
 #EXTINF:-1 ,MALETA MIX 
