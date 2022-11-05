@@ -222,7 +222,7 @@ http://179.1.64.210:8090/play/a013/index.m3u8
 #EXTINF:-1 ,TDI COLOMBIA
 https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 
-#EXTINF:0,MX | Las Estrellas
+#EXTINF:-1 ,Las Estrellas
 http://200.41.79.165:8000/play/a064/index.m3u8
 
 #EXTINF:-1 ,TLNOVELAS 
