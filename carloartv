@@ -18,8 +18,8 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 ,CARACOL HD 
 http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/38549
 
-#EXTINF:-1 ,RCN Nuestra Tele
-http://200.41.79.165:8000/play/a006/index.m3u8
+#EXTINF:-1 ,RCN 
+http://185.134.22.150:8080/jokertv/streaming@2021/38156
 
 #EXTINF:-1 ,RCN Novelas
 http://200.41.79.165:8000/play/a0is/index.m3u8
@@ -49,7 +49,7 @@ https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,TNT
-http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16599
+http://185.134.22.150:8080/jokertv/streaming@2021/38105
 
 #EXTINF:-1 ,A&E
 http://45.5.119.202:8000/play/a014/index.m3u8
