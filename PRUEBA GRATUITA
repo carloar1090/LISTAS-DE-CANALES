@@ -1,1 +1,294 @@
-#EXTINF:
+
+#EXTINF:-1 ,SEÑAL COLOMBIA
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,Claro Cinema
+http://45.5.119.202:8000/play/a01d/index.m3u8
+
+#EXTINF:-1 ,MEMORIAS TV 2
+https://stmv2.zcastbr.com/memoriastv/memoriastv/playlist.m3u8
+
+#EXTINF:-1,Canal Azteca - GUA
+http://45.5.119.202:8000/play/a00w/index.m3u8
+
+#EXTINF:-1 ,CARACOL SD
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+
+#EXTINF:-1 ,CARACOL HD 
+http://185.134.22.150:8080/jokertv/streaming@2021/38246
+
+#EXTINF:-1 ,RCN 
+http://185.134.22.150:8080/jokertv/streaming@2021/38156
+
+#EXTINF:-1 ,RCN Novelas
+http://200.41.79.165:8000/play/a0is/index.m3u8
+
+#EXTINF:-1 ,TELECAFE
+http://200.41.79.165:8000/play/a04y/index.m3u8
+
+#EXTINF:-1 ,CALI TV
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,CNC MEDELLIN 
+http://38.75.136.76:1935/cncmedellin720/canalcncmedellin.stream_720p/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,VISIÓN DORADA
+https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,CANAL 1
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+
+#EXTINF:-1 ,City TV
+http://200.41.79.165:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 ,ATN TELEVISIÓN
+https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
+
+#EXTINF:-1 ,RETRO PLUS MÚSICA
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,TNT
+http://185.134.22.150:8080/jokertv/streaming@2021/38105
+
+#EXTINF:-1 ,A&E
+http://45.5.119.202:8000/play/a014/index.m3u8
+
+#EXTINF:-1 ,MICROVISIÓN
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1864019893.m3u8
+
+#EXTINF:-1 ,CTV BARRANQUILLA
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,Animal Planet
+http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/44335
+
+#EXTINF:-1 ,AMC
+http://45.5.119.202:8000/play/a02w/index.m3u8
+
+#EXTINF:-1 ,REDWIN TV MUSIC
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,AXN 
+http://45.5.119.202:8000/play/a02u/index.m3u8
+
+#EXTINF:-1 ,TELEPACIFICO
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,La Red ca
+http://200.41.79.165:8000/play/a053/index.m3u8
+
+#EXTINF:-1 ,URBAN TV
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,RED DE DIBUJOS ANIMADOS
+http://45.5.119.202:8000/play/a02d/index.m3u8
+
+#EXTINF:-1,Baby First
+http://45.5.119.202:8000/play/a009/index.m3u8
+
+#EXTINF:-1,Cartoonito
+http://45.5.119.202:8000/play/a02f/index.m3u8
+
+#EXTINF:-1 ,TELE FAMILIA 
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,BUENISIMA RADIO
+http://streamyes.alsolnet.com/buturama/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,TV PEÑOL
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,CINECANAL 
+http://45.5.119.202:8000/play/a01h/index.m3u8
+
+#EXTINF:-1 ,LATINOS RADIO
+https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,DISCOVERY TURBO 
+http://200.41.79.165:8000/play/a04t/index.m3u8
+
+#EXTINF:-1 ,TOP LATINO
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,DISCOVERY CHANNEL 
+http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/30321
+
+#EXTINF:-1 ,ID DISCOVERYI
+http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/38492
+
+#EXTINF:-1 ,DISCOVERY KIDS HD 
+http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16533
+
+#EXTINF:-1,Disney HD
+http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/37258
+
+#EXTINF:-1 ,NIÑOS LATINOS
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
+
+#EXTINF:-1, BEBÉ TV
+http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/30311
+
+#EXTINF:-1 ,NETFLIX LIVE
+http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/38685
+
+#EXTINF:-1 ,Disney Jr
+http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/30327
+
+#EXTINF:-1,TNT SPORTS 2
+http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/38563
+
+#EXTINF:-1 ,DISCOVERY WORLD 
+http://179.1.64.210:8090/play/a00d/index.m3u8
+
+#EXTINF:-1 ,MUNDO DE LA MUSICA
+https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,VALLENATO INTERNACIONAL
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+
+#EXTINF:-1 ,NOTICIERO 90 MN
+https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,ENTERTAIRMENT 
+http://200.41.79.165:8000/play/a05q/index.m3u8
+
+#EXTINF:-1 ,ESPN 2
+http://179.1.64.210:8090/play/a02n/index.m3u8
+
+#EXTINF:-1 ,ESPN 3
+http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16546
+
+#EXTINF:-1 ,ESPN  EXTRA
+http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16547
+
+#EXTINF:-1 ,ESPN HD
+http://179.1.64.210:8090/play/a019/index.m3u8
+
+#EXTINF:-1 ,CARLOAR OXIGENO
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,FOX SPORT 3
+http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16551
+
+#EXTINF:-1 ,FOX SPORTS 2 
+http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16550
+
+#EXTINF:-1 ,HBO FAMILY 
+http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16559
+
+#EXTINF:-1 ,HBO HD 
+http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16557
+
+#EXTINF:-1 ,XTREME 
+http://200.41.79.165:8000/play/a05g/index.m3u8
+
+#EXTINF:-1 ,HISTORY HD 
+http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16565
+
+#EXTINF:-1 ,Cinecanal 
+http://200.41.79.165:8000/play/a03z/index.m3u8
+
+#EXTINF:-1 ,FX 
+http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/30339
+
+#EXTINF:-1 ,WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+
+#EXTINF:-1 ,MEMORIAS TV ROMANTICA
+https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,PLANCHA TV
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,MTV 
+http://200.41.79.165:8000/play/a042/index.m3u8
+
+#EXTINF:-1 ,NATGEO HD 
+http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16575
+
+#EXTINF:-1 ,HUILA TV
+https://plataformavideo.com:19360/8020/8020.m3u8
+
+#EXTINF:-1 ,CANTINA TV
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,SONY HD 
+http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16581
+
+#EXTINF:-1 ,PARAMOUNT
+http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16580
+
+#EXTINF:-1 ,SPACE 
+http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/3151
+
+#EXTINF:-1 ,STAR CHANEL 
+http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16585
+
+#EXTINF:-1 ,STUDIO UNIVERSAL 
+http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16591
+
+#EXTINF:-1 ,TDI COLOMBIA
+https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
+
+#EXTINF:-1 ,Las Estrellas
+http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/25306
+
+#EXTINF:-1 ,TLNOVELAS 
+http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16598
+
+#EXTINF:-1 ,NOVELISIMA
+https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+
+#EXTINF:-1 ,VEO TELEVISION 
+https://movil.ejeserver.com/live/veotv.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,Telefuturo
+http://200.41.79.165:8000/play/a0hy/index.m3u8
+
+#EXTINF:-1 ,LA DESPECHADA TV
+https://servidordevideo.co:3077/hybrid/play.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,RT EN ESPAÑOL
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 ,TNT SERIES 
+http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16600
+
+#EXTINF:-1 ,UNIVERSAL 
+http://200.41.79.165:8000/play/a040/index.m3u8
+
+#EXTINF:-1 ,WARNER 
+http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16607
+
+#EXTINF:-1 ,WIN SPORTS+ 
+http://179.1.64.210:8090/play/a00r/index.m3u8
+
+#EXTINF:-1 ,Win Sports Plus (COL)
+http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/38531
+
+#EXTINF:-1 ,MALETA MIX 
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 ,SOLO EXITOS
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,CANAL INSTITUCIONAL
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,DW ENGLISH
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 ,CANAL CATOLICO
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+
+#EXTINF:-1 ,NUEVO TIEMPO
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+
+#EXTINF:-1 ,ZOOM CANAL
+https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
+
+#EXTINF:-1 ,PORTALFOXMIX
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
+
+#EXTINF:-1,CNNE
+http://45.5.119.202:8000/play/a02h/index.m3u8
