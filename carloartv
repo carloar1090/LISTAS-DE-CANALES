@@ -186,6 +186,9 @@ http://200.41.79.165:8000/play/a05g/index.m3u8
 #EXTINF:-1 ,HISTORY HD 
 http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16565
 
+#EXTINF:-1 ,HISTORY 2
+http://185.134.22.150:8080/jokertv/streaming@2021/39281
+
 #EXTINF:-1 ,Cinecanal 
 http://200.41.79.165:8000/play/a03z/index.m3u8
 
