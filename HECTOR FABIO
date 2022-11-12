@@ -264,10 +264,10 @@ http://200.41.79.165:8000/play/a040/index.m3u8
 #EXTINF:-1 ,WARNER 
 http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16607
 
-#EXTINF:-1 ,GANA DEPORTES+
+#EXTINF:-1 ,WIN SPORTS+
 http://185.134.22.150:8080/jokertv/streaming@2021/38140
 
-#EXTINF:-1 ,Ganar deportes
+#EXTINF:-1 ,WIN SPORTS 
 http://185.134.22.150:8080/jokertv/streaming@2021/38062
 
 #EXTINF:-1 ,MALETA MIX 
@@ -296,3 +296,15 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w19153785
 
 #EXTINF:-1,CNNE
 http://45.5.119.202:8000/play/a02h/index.m3u8
+
+#EXTINF:-1,ADULTOS 1
+http://cdn.adultiptv.net/milf.m3u8
+
+#EXTINF:-1,ADULTOS CAM
+http://cdn.adultiptv.net/livecams.m3u8
+
+#EXTINF:-1,ADULTOS LESBIAN
+http://cdn.adultiptv.net/lesbian.m3u8
+
+#EXTINF:-1,ADULTOS LATINAS
+http://cdn.adultiptv.net/latina.m3u8
