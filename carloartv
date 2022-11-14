@@ -205,7 +205,7 @@ https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,MTV 
-http://200.41.79.165:8000/play/a042/index.m3u8
+http://185.134.22.150:8080/jokertv/streaming@2021/38445
 
 #EXTINF:-1 ,NATGEO HD 
 http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16575
