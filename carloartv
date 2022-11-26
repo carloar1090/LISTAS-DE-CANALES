@@ -30,7 +30,7 @@ http://200.41.79.165:8000/play/a04y/index.m3u8
 #EXTINF:-1 ,CALI TV
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 ,CNC MEDELLIN 
+#EXTINF:-1 ,CNC MEDELLIN  
 http://38.75.136.76:1935/cncmedellin720/canalcncmedellin.stream_720p/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,VISION DORADA
