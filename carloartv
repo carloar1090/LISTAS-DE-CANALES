@@ -18,8 +18,8 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 ,CARACOL HD 
 http://185.134.22.150:8080/jokertv/streaming@2021/38246
 
-#EXTINF:-1 ,RCN 
-http://185.134.22.150:8080/jokertv/streaming@2021/38156
+#EXTINF:-1 ,RCN in
+http://iptvcanales.xyz/canales/tvfree/193/playlist.m3u8
 
 #EXTINF:-1 ,RCN Novelas
 http://200.41.79.165:8000/play/a0is/index.m3u8
@@ -265,10 +265,10 @@ http://200.41.79.165:8000/play/a040/index.m3u8
 http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16607
 
 #EXTINF:-1 ,WIN SPORTS+ 
-http://185.134.22.150:8080/jokertv/streaming@2021/38140
+http://iptvcanales.xyz/canales/televall/492/playlist.m3u8
 
 #EXTINF:-1 ,Win Sports 
-http://185.134.22.150:8080/jokertv/streaming@2021/38062
+http://iptvcanales.xyz/canales/televall/491/playlist.m3u8
 
 #EXTINF:-1 ,MALETA MIX 
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
