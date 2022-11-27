@@ -84,7 +84,7 @@ http://200.41.79.165:8000/play/a053/index.m3u8
 #EXTINF:-1 ,URBAN TV
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,CARTOON NETWORK
+#EXTINF:-1,CARTOON NETWORK 
 http://iptvcanales.xyz/canales/televall/565/playlist.m3u8
 
 #EXTINF:-1,Baby First
