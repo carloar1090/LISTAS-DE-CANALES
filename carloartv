@@ -3,22 +3,24 @@
 #EXTINF:-1 ,SEÑAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,T&C  SPORTS
-http://iptvcanales.xyz/canales/live/29/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.WcL75HV5Htw0q26SCVNpOgHaDJ?pid=ImgDet&rs=1",LA KALLE
+http://152.200.181.236:8000/play/a037
 
-#EXTINF:-1 ,MAXIMA
-http://iptvcanales.xyz/canales/live/71/playlist.m3u8
 
-#EXTINF:-1,DE PELICULA
-http://iptvcanales.xyz/canales/televall/607/playlist.m3u8
 
-#EXTINF:-1 ,CARACOL SD
-https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+#EXTINF:-1,Caracol HD op1
+http://8.242.187.233:5800/play/a0b1/index.m3u8
 
-#EXTINF:-1 ,CARACOL HD 
+#EXTINF:-1 ,CARACOL HD op2
 http://200.41.79.165:8000/play/a0jk/index.m3u8
 
-#EXTINF:-1 ,RCN 
+#EXTINF:-1 ,CARACOL SD op3
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+
+#EXTINF:-1,RCN HD op1
+http://8.242.187.233:5800/play/a0e6/index.m3u8
+
+#EXTINF:-1 ,RCN op2
 http://200.41.79.165:8000/play/a006/index.m3u8
 
 #EXTINF:-1 ,RCN Novelas
@@ -36,8 +38,7 @@ http://38.75.136.76:1935/cncmedellin720/canalcncmedellin.stream_720p/playlist.m3
 #EXTINF:-1 ,VISION DORADA
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 ,CANAL 1
-https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+
 
 #EXTINF:-1,Teleantioquia
 http://200.41.79.165:8000/play/a04l/index.m3u8
@@ -51,29 +52,27 @@ https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 #EXTINF:-1 ,RETRO PLUS MUSIC
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 ,TNT
-http://iptvcanales.xyz/canales/televall/548/playlist.m3u8
+#EXTINF:-1,TNT op1
+http://8.242.187.233:5800/play/a0dn/index.m3u8
 
-#EXTINF:-1 ,A&E MX
-http://iptvcanales.xyz/canales/televall/520/playlist.m3u8
+#EXTINF:-1 ,A&E 
+http://8.242.187.233:5800/play/a0db/index.m3u8
 
-#EXTINF:-1 ,MICROVISION
-http://190.103.183.24:1935/live/MicroHD/chunklist_w1864019893.m3u8
 
 #EXTINF:-1 ,CTV BARRANQUILLA
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,Animal Planet
-http://iptvcanales.xyz/canales/televall/663/playlist.m3u8
+http://8.242.187.233:5800/play/a0d8/index.m3u8
 
 #EXTINF:-1 ,AMC
-http://iptvcanales.xyz/canales/televall/624/playlist.m3u8
+http://8.242.187.233:5800/play/a0d2/index.m3u8
 
 #EXTINF:-1 ,REDWIN TV MUSIC
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,AXN 
-http://iptvcanales.xyz/canales/televall/522/playlist.m3u8
+http://8.242.187.233:5800/play/a0de/index.m3u8
 
 #EXTINF:-1 ,TELEPACIFICO
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
@@ -85,13 +84,10 @@ http://200.41.79.165:8000/play/a053/index.m3u8
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,CARTOON NETWORK
-http://iptvcanales.xyz/canales/televall/565/playlist.m3u8
-
-#EXTINF:-1,Baby First
-http://45.5.119.202:8000/play/a009/index.m3u8
+http://8.242.187.233:5800/play/a0d4/index.m3u8
 
 #EXTINF:-1,CARTOONITO
-http://iptvcanales.xyz/canales/televall/564/playlist.m3u8
+http://8.242.187.233:5800/play/a0gm/index.m3u8
 
 #EXTINF:-1 ,TELE FAMILIA 
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
@@ -101,6 +97,9 @@ http://streamyes.alsolnet.com/buturama/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,TV PEÑOL
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 channel-id="pluto-61a52615cbef2500072876e2" tvg-id="61a52615cbef2500072876e2" tvg-chno="158" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png" group-title="Entretenimiento",MTV Shore
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61a52615cbef2500072876e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 ,Nickelodeon
 http://200.41.79.165:8000/play/a03v/index.m3u8
@@ -123,9 +122,6 @@ http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16533
 #EXTINF:-1,Disney JUNIOR
 http://200.41.79.165:8000/play/a05i/index.m3u8
 
-#EXTINF:-1 ,CHIQUILINES SD
-http://iptvcanales.xyz/canales/live/19/playlist.m3u8
-
 #EXTINF:-1 ,BABY TV
 http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/30311
 
@@ -135,20 +131,11 @@ http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/38685
 #EXTINF:-1 ,Disney CHANEL
 http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/30327
 
-#EXTINF:-1,TNT SPORTS 2
-http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/38563
-
 #EXTINF:-1 ,DISCOVERY WORLD 
-http://179.1.64.210:8090/play/a00d/index.m3u8
-
-#EXTINF:-1 ,GOLDEN
-http://iptvcanales.xyz/canales/tvfree/202/playlist.m3u8
+http://8.242.187.233:5800/play/a0d0/index.m3u8
 
 #EXTINF:-1 ,VALLENATO INTERNACIONAL
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
-
-#EXTINF:-1 ,NOTICIERO 90 MN
-https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,ENTERTAIRMENT 
 http://200.41.79.165:8000/play/a05q/index.m3u8
@@ -160,12 +147,9 @@ http://200.41.79.165:8000/play/a05s/index.m3u8
 http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16546
 
 #EXTINF:-1 ,ESPN CO
-http://200.41.79.165:8000/play/a00c/index.m3u8
+http://8.242.187.233:5801/play/a068/index.m3u8
 
-#EXTINF:-1 ,GOL TV
-http://200.41.79.165:8000/play/a05u/index.m3u8
-
-#EXTINF:-1 ,CARLOAR OXIGENO
+#EXTINF:-1 ,LOAR OXIGENO
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,FOX SPORT 3
@@ -193,10 +177,10 @@ http://200.41.79.165:8000/play/a05g/index.m3u8
 http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16565
 
 #EXTINF:-1 ,Cinecanal 
-http://200.41.79.165:8000/play/a03z/index.m3u8
+http://8.242.187.233:5800/play/a0d1/index.m3u8
 
-#EXTINF:-1 ,FX 
-http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/30339
+#EXTINF:-1,STAR CHANNEL HD
+http://8.242.187.233:5800/play/a0dh/index.m3u8
 
 #EXTINF:-1 ,WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
@@ -207,11 +191,12 @@ https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,PLANCHA TV
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 ,A SON DE SALSA
-https://cloud01.mipaneltv.xyz/asondesalsa/asondesalsa/playlist.m3u8
+#EXTINF:-1,VEVO REGAETTON
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/8830da17af6f45c18bae545abe878729/live_6.m3u8
 
-#EXTINF:-1 ,MTV SHORE
-http://iptvcanales.xyz/canales/plutotv/61a52615cbef2500072876e2/playlist.m3u8
+#EXTINF:-1,VEVO POP
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/6757caebe90a467bae26bbfb7c82e67b/live.m3u8
+
 
 #EXTINF:-1 ,NATGEO HD 
 http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16575
@@ -247,13 +232,10 @@ https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/25306
 
 #EXTINF:-1 ,TLNOVELAS 
-http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16598
+http://8.242.187.233:5800/play/a0ee/index.m3u8
 
 #EXTINF:-1 ,NOVELISIMA
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
-
-#EXTINF:-1 ,VEO TELEVISION 
-https://movil.ejeserver.com/live/veotv.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,Telefuturo
 http://200.41.79.165:8000/play/a0hy/index.m3u8
@@ -271,13 +253,10 @@ http://200.41.79.165:8000/play/a040/index.m3u8
 http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16607
 
 #EXTINF:-1 ,WIN SPORTS+ 
-http://iptvcanales.xyz/canales/televall/492/playlist.m3u8
+http://8.242.187.233:5800/play/a0d7/index.m3u8
 
 #EXTINF:-1 ,Win Sports 
-http://iptvcanales.xyz/canales/televall/491/playlist.m3u8
-
-#EXTINF:-1 ,MALETA MIX 
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+http://8.242.187.233:5800/play/a0dg/index.m3u8
 
 #EXTINF:-1 ,SOLO EXITOS
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
@@ -299,9 +278,6 @@ https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 
 #EXTINF:-1 ,PORTALFOXMIX
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
-
-#EXTINF:-1,AZTECA UNO
-http://iptvcanales.xyz/canales/live/219/playlist.m3u8
 
 #EXTINF:-1,TRO
 http://200.41.79.165:8000/play/a00e/index.m3u8
