@@ -1,24 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 ,SEÑAL COLOMBIA
+#EXTINF:-1 ,SENAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.WcL75HV5Htw0q26SCVNpOgHaDJ?pid=ImgDet&rs=1",LA KALLE
-http://152.200.181.236:8000/play/a037
-
-#EXTINF:-1 ,CARACOL SD op3
+#EXTINF:-1 ,CANAL CARACOL
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 
-#EXTINF:-1 ,RCN op2
+#EXTINF:-1 ,CANAL RCN 
 http://200.41.79.165:8000/play/a006/index.m3u8
 
 #EXTINF:-1 ,TELECAFE
 http://200.41.79.165:8000/play/a04y/index.m3u8
 
-#EXTINF:-1 ,CALI TV
+#EXTINF:-1 ,Canal Cali TV
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 ,CNC MEDELLIN  
+#EXTINF:-1 ,Canal CNC Medellín 
 http://38.75.136.76:1935/cncmedellin720/canalcncmedellin.stream_720p/playlist.m3u8?PlaylistM3UCL
 
 
@@ -29,14 +26,14 @@ http://200.41.79.165:8000/play/a04l/index.m3u8
 #EXTINF:-1 ,City TV
 http://200.41.79.165:8000/play/a00g/index.m3u8
 
-#EXTINF:-1 ,ATN TELEVISION 
+#EXTINF:-1 ,ATN Televisión
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 
-#EXTINF:-1 ,RETRO PLUS MUSIC
+#EXTINF:-1 ,Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 ,CTV BARRANQUILLA
+#EXTINF:-1 ,ctv Barranquilla
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,REDWIN TV MUSIC
@@ -48,10 +45,10 @@ https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 channel-id="pluto-61a52615cbef2500072876e2" tvg-id="61a52615cbef2500072876e2" tvg-chno="158" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png" group-title="Entretenimiento",MTV Shore
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61a52615cbef2500072876e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 ,Nickelodeon
+#EXTINF:-1 ,Nick Kids
 http://200.41.79.165:8000/play/a03v/index.m3u8
 
-#EXTINF:-1 ,DISCOVERY TURBO 
+#EXTINF:-1 ,Discovery Turbo Networks
 http://200.41.79.165:8000/play/a04t/index.m3u8
 
 #EXTINF:-1 ,DISCOVERY CHANNEL 
