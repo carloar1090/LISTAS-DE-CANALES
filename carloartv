@@ -151,6 +151,9 @@ http://200.41.79.165:8000/play/a040/index.m3u8
 #EXTINF:-1 ,WARNER 
 http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16607
 
+#EXTINF:-1 ,Win +
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/23129
+
 #EXTINF:-1 ,Win Sports 
 http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/3419
 
