@@ -43,7 +43,7 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,MTV Shore
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61a52615cbef2500072876e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26944
 
 #EXTINF:-1 ,Nick Kids
 http://200.41.79.165:8000/play/a03v/index.m3u8
