@@ -155,7 +155,7 @@ http://200.41.79.165:8000/play/a040/index.m3u8
 http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16607
 
 #EXTINF:-1 ,Win +
-http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/23130
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/144406
 
 #EXTINF:-1 ,Win Sports 
 http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/3419
@@ -192,3 +192,9 @@ http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26761
 
 #EXTINF:-1 ,Star Channel
 http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26901
+
+#EXTINF:-1 ,CartoonNetwork
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26879
+
+#EXTINF:-1 ,Cartoonito
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1370
