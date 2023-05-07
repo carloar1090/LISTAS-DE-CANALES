@@ -1,158 +1,175 @@
 #EXTM3U
 
-#EXTINF:-1 ,SENAL COLOMBIA
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,AE Mundo
+http://177.93.60.43:5801/play/a03d/index.m3u8
 
-#EXTINF:-1 ,CANAL CARACOL
-http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/22144
+#EXTINF:-1,AXN
+http://177.93.60.43:5801/play/a03w/index.m3u8
 
-#EXTINF:-1 ,CANAL RCN 
-http://200.41.79.165:8000/play/a006/index.m3u8
+#EXTINF:-1,Animal Planet
+http://177.93.60.43:5801/play/a037/index.m3u8
 
-#EXTINF:-1 ,TELECAFE
-http://200.41.79.165:8000/play/a04y/index.m3u8
+#EXTINF:-1,BabyFirst
+http://177.93.60.43:5801/play/a05t/index.m3u8
 
-#EXTINF:-1 ,Canal Cali TV
-http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,CNN Espanol
+http://177.93.60.43:5801/play/a02n/index.m3u8
 
-#EXTINF:-1 ,Canal CNC Medellín 
-http://38.75.136.76:1935/cncmedellin720/canalcncmedellin.stream_720p/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Canal Caracol
+http://177.93.60.43:5801/play/a05z/index.m3u8
 
+#EXTINF:-1,Canal Estrellas
+http://177.93.60.43:5801/play/a03e/index.m3u8
 
+#EXTINF:-1,Canal Institucional
+http://177.93.60.43:5801/play/a0as/index.m3u8
 
-#EXTINF:-1,Teleantioquia
-http://200.41.79.165:8000/play/a04l/index.m3u8
+#EXTINF:-1,Canal Institucional
+http://177.93.60.43:5801/play/a063/index.m3u8
 
-#EXTINF:-1 ,City TV
-http://200.41.79.165:8000/play/a00g/index.m3u8
+#EXTINF:-1,Canal RCN
+http://177.93.60.43:5801/play/a060/index.m3u8
 
-#EXTINF:-1 ,ATN Televisión
-https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
+#EXTINF:-1,Canal Uno
+http://177.93.60.43:5801/play/a05x/index.m3u8
 
-#EXTINF:-1 ,Retro Plus TV
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Canal del Congreso
+http://177.93.60.43:5801/play/a0at/index.m3u8
 
+#EXTINF:-1,Capital
+http://177.93.60.43:5801/play/a06f/index.m3u8
 
-#EXTINF:-1 ,ctv Barranquilla
-https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Cartoon Network
+http://177.93.60.43:5801/play/a05m/index.m3u8
 
-#EXTINF:-1 ,REDWIN TV MUSIC
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Cinecanal
+http://177.93.60.43:5801/play/a05e/index.m3u8
 
-#EXTINF:-1 ,URBAN TV
-https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,City TV
+http://177.93.60.43:5801/play/a06e/index.m3u8
 
-#EXTINF:-1 ,MTV Shore
-http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26944
+#EXTINF:-1,Discovery Channel
+http://177.93.60.43:5801/play/a036/index.m3u8
 
-#EXTINF:-1 ,Nick Kids
-http://200.41.79.165:8000/play/a03v/index.m3u8
+#EXTINF:-1,Discovery ID
+http://177.93.60.43:5801/play/a03j/index.m3u8
 
-#EXTINF:-1 ,Discovery Turbo Networks
-http://200.41.79.165:8000/play/a04t/index.m3u8
+#EXTINF:-1,Discovery Kids
+http://177.93.60.43:5801/play/a05w/index.m3u8
 
-#EXTINF:-1 ,DISCOVERY CHANNEL 
-http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/30321
+#EXTINF:-1,Discovery Turbo
+http://177.93.60.43:5801/play/a040/index.m3u8
 
-#EXTINF:-1 ,DISCOVERYI ID 
-http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/38492
+#EXTINF:-1,Disney Channel
+http://177.93.60.43:5801/play/a035/index.m3u8
 
-#EXTINF:-1 ,DISCOVERY KIDS HD 
-http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16533
+#EXTINF:-1,Disney Jr
+http://177.93.60.43:5801/play/a02q/index.m3u8
 
-#EXTINF:-1,Disney JUNIOR
-http://200.41.79.165:8000/play/a05i/index.m3u8
+#EXTINF:-1,E Entertainment
+http://177.93.60.43:5801/play/a039/index.m3u8
 
-#EXTINF:-1 ,BABY TV
-http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/30311
+#EXTINF:-1,ESPN
+http://177.93.60.43:5801/play/a078/index.m3u8
 
-#EXTINF:-1 ,NETFLIX LIVE
-http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/38685
+#EXTINF:-1,ESPN 2 Latin
+http://177.93.60.43:5801/play/a06z/index.m3u8
 
-#EXTINF:-1 ,Disney CHANEL
-http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/30327
+#EXTINF:-1,ESPN 3
+http://177.93.60.43:5801/play/a041/index.m3u8
 
-#EXTINF:-1 ,VALLENATO INTERNACIONAL
-https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:-1,ESPN CO
+http://177.93.60.43:5801/play/a068/index.m3u8
 
-#EXTINF:-1 ,ENTERTAIRMENT 
-http://200.41.79.165:8000/play/a05q/index.m3u8
+#EXTINF:-1,Enlace
+http://177.93.60.43:5801/play/a05r/index.m3u8
 
-#EXTINF:-1 ,ESPN 2
-http://200.41.79.165:8000/play/a05s/index.m3u8
+#EXTINF:-1,FX
+http://177.93.60.43:5801/play/a03y/index.m3u8
 
-#EXTINF:-1 ,ESPN 3
-http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16546
+#EXTINF:-1,Fox Sports 1
+http://177.93.60.43:5801/play/a055/index.m3u8
 
-#EXTINF:-1 ,FOX SPORT 3
-http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16551
+#EXTINF:-1,Fox Sports 2
+http://177.93.60.43:5801/play/a03f/index.m3u8
 
-#EXTINF:-1 ,FOX SPORTS 2 
-http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16550
+#EXTINF:-1,Fox Sports 3
+http://177.93.60.43:5801/play/a03g/index.m3u8
 
-#EXTINF:-1 ,TNT 
-http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/69586
+#EXTINF:-1,History Channel
+http://177.93.60.43:5801/play/a05d/index.m3u8
 
-#EXTINF:-1 ,HBO  
-http://200.41.79.165:8000/play/a09a/index.m3u8
+#EXTINF:-1,HomeandHealth
+http://177.93.60.43:5801/play/a03o/index.m3u8
 
-#EXTINF:-1,HBO 2
-http://200.41.79.165:8000/play/a08j/index.m3u8
+#EXTINF:-1,I-Sat
+http://177.93.60.43:5801/play/a05g/index.m3u8
 
-#EXTINF:-1 ,HBO PLUS
-http://200.41.79.165:8000/play/a05f/index.m3u8
+#EXTINF:-1,MTV
+http://177.93.60.43:5801/play/a05h/index.m3u8
 
-#EXTINF:-1 ,HBO FAMILY 
-http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16559
+#EXTINF:-1,Nat Geo
+http://177.93.60.43:5801/play/a05c/index.m3u8
 
-#EXTINF:-1 ,HBO XTREME 
-http://200.41.79.165:8000/play/a05g/index.m3u8
+#EXTINF:-1,Nick Jr
+http://177.93.60.43:5801/play/a03z/index.m3u8
 
-#EXTINF:-1 ,HISTORY HD 
-http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16565
+#EXTINF:-1,Nickelodeon
+http://177.93.60.43:5801/play/a05b/index.m3u8
 
-#EXTINF:-1 ,WOW TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:-1,RCN Novelas
+http://177.93.60.43:5801/play/a03i/index.m3u8
 
-#EXTINF:-1 ,PLANCHA TV
-https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,STAR CHANNEL
+http://177.93.60.43:5801/play/a09g/index.m3u8
 
-#EXTINF:-1,VEVO REGAETTON
-https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/8830da17af6f45c18bae545abe878729/live_6.m3u8
+#EXTINF:-1,Senal Colombia
+http://177.93.60.43:5801/play/a065/index.m3u8
 
-#EXTINF:-1,VEVO POP
-https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/6757caebe90a467bae26bbfb7c82e67b/live.m3u8
+#EXTINF:-1,Sony
+http://177.93.60.43:5801/play/a03v/index.m3u8
 
+#EXTINF:-1,Space
+http://177.93.60.43:5801/play/a03x/index.m3u8
 
-#EXTINF:-1 ,NATGEO HD 
-http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16575
+#EXTINF:-1,SyFy
+http://177.93.60.43:5801/play/a07b/index.m3u8
 
-#EXTINF:-1,Zona Latina
-http://200.41.79.165:8000/play/a043/index.m3u8
+#EXTINF:-1,TBS
+http://177.93.60.43:5801/play/a03m/index.m3u8
 
-#EXTINF:-1 ,SONY HD 
-http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16581
+#EXTINF:-1,TCM
+http://177.93.60.43:5801/play/a05l/index.m3u8
 
-#EXTINF:-1 ,PARAMOUNT
-http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16580
+#EXTINF:-1,TLC
+http://177.93.60.43:5801/play/a04c/index.m3u8
 
-#EXTINF:-1 ,SPACE 
-http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/3151
+#EXTINF:-1,TNT
+http://177.93.60.43:5801/play/a05n/index.m3u8
 
-#EXTINF:-1 ,Las Estrellas
-http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/25306
+#EXTINF:-1,TRO
+http://177.93.60.43:5801/play/a06c/index.m3u8
 
-#EXTINF:-1,Telefuturo
-http://200.41.79.165:8000/play/a0hy/index.m3u8
+#EXTINF:-1,Telecafe
+http://177.93.60.43:5801/play/a0ar/index.m3u8
 
-#EXTINF:-1 ,TNT SERIES 
-http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16600
+#EXTINF:-1,Teleislas
+http://177.93.60.43:5801/play/a06d/index.m3u8
 
-#EXTINF:-1 ,UNIVERSAL 
-http://200.41.79.165:8000/play/a040/index.m3u8
+#EXTINF:-1,Telemundo
+http://177.93.60.43:5801/play/a03h/index.m3u8
 
-#EXTINF:-1 ,WARNER 
-http://live.budtvlight.com:25461/bud-88037/6e44c54e5d/16607
+#EXTINF:-1,Trece
+http://177.93.60.43:5801/play/a09o/index.m3u8
+
+#EXTINF:-1,Universal
+http://177.93.60.43:5801/play/a05f/index.m3u8
+
+#EXTINF:-1,Warner
+http://177.93.60.43:5801/play/a038/index.m3u8
+
+#EXTINF:-1,Zoom
+http://177.93.60.43:5801play/a06b/index.m3u8
 
 #EXTINF:-1 ,Win +
 http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/144406
@@ -160,41 +177,4 @@ http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/144406
 #EXTINF:-1 ,Win Sports 
 http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/3419
 
-#EXTINF:-1 ,DW ESPAÑOL
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 ,CANAL CATOLICO
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-
-#EXTINF:-1 ,NUEVO TIEMPO
-https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-
-#EXTINF:-1,TRO
-http://200.41.79.165:8000/play/a00e/index.m3u8
-
-#EXTINF:-1 ,Directv Sports 1
-http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/955
-
-#EXTINF:-1,Directv Sports +
-http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/962
-
-#EXTINF:-1 ,COL-Claro Sports 
-http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/22142
-
-#EXTINF:-1 ,MovistarFormula1
-http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/115985
-
-#EXTINF:-1 ,AMC
-http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26931
-
-#EXTINF:-1 ,AXN 
-http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26761
-
-#EXTINF:-1 ,Star Channel
-http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/26901
-
-#EXTINF:-1 ,CartoonNetwork
-http://10.0.20.18:5007/play/a05m/index.m3u8
-
-#EXTINF:-1 ,Cartoonito
-http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1370
