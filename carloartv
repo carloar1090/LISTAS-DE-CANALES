@@ -135,9 +135,6 @@ http://177.93.60.43:5801/play/a03x/index.m3u8
 #EXTINF:-1,SyFy
 http://177.93.60.43:5801/play/a07b/index.m3u8
 
-#EXTINF:-1,TBS
-http://cdn.adultiptv.net/bigass.m3u8?PlaylistM3UCL
-
 #EXTINF:-1,TCM
 http://177.93.60.43:5801/play/a05l/index.m3u8
 
@@ -175,6 +172,12 @@ http://177.93.60.43:5801play/a06b/index.m3u8
 http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/144406
 
 #EXTINF:-1 ,Win Sports 
-http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/3419 
+http://177.93.60.43:5800/play/a0dg/index.m3u8
+
+#EXTINF:-1,Venus
+http://177.93.60.43:5800/play/a0gi/index.m3u8
+
+#EXTINF:-1,PlayBoy HD
+http://177.93.60.43:5800/play/a0gk/index.m3u8
 
 
