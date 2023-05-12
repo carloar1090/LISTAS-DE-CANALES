@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1,AE Mundo
-http://177.93.60.43:5801/play/a03d/index.m3u8  
+http://10.0.20.18:5007/play/a03d/index.m3u8  
 
 #EXTINF:-1,AXN
-http://177.93.60.43:5801/play/a03w/index.m3u8
+http://10.0.20.18:5007/play/a03w/index.m3u8
 
 #EXTINF:-1,Animal Planet
-http://177.93.60.43:5801/play/a037/index.m3u8
+http://10.0.20.18:5007/play/a037/index.m3u8
 
 #EXTINF:-1,BabyFirst
 http://177.93.60.43:5801/play/a05t/index.m3u8
