@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1,Win Sports+ HD
-http://177.93.60.43:5800/play/a0d7/index.m3u8
+http://190.119.178.46:8000/play/a0ca/index.m3u8
 #EXTINF:-1,Win Sports HD
-http://177.93.60.43:5800/play/a0dg/index.m3u8
+http://190.119.178.46:8000/play/a09t/index.m3u8
 
 #EXTINF:-1,A&E HD
 http://177.93.60.43:5800/play/a0db/index.m3u8
