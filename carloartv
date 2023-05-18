@@ -169,10 +169,10 @@ http://10.0.20.18:5007/play/a038/index.m3u8
 http://10.0.20.18:5007/play/a06b/index.m3u8
 
 #EXTINF:-1 ,Win +
-http://177.93.60.43:5800/play/a0d7/index.m3u8
+http://190.119.178.46:8000/play/a0ca/index.m3u8
 
 #EXTINF:-1 ,Win Sports 
-http://10.0.20.18:5007/play/a0dg/index.m3u8
+http://190.119.178.46:8000/play/a09t/index.m3u8
 
 #EXTINF:-1,Venus
 http://177.93.60.43:5800/play/a0gi/index.m3u8
