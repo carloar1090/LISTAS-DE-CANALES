@@ -6,7 +6,7 @@ http://10.0.20.19:5008/play/a0dc/index.m3u8
 #EXTINF:-1,AMC HD
 http://10.0.20.19:5008/play/a0d2/index.m3u8
 
-#EXTINF:-1,AE Mundo
+#EXTINF:-1,A&E
 http://10.0.20.19:5008/play/a0db/index.m3u8 
 
 #EXTINF:-1,AXN
